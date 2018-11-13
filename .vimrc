@@ -1,6 +1,6 @@
 execute pathogen#infect()
 
-" dont make vim compatible with vi 
+" dont make vim compatible with vi
 set nocompatible
 
 " add line numbers
@@ -13,7 +13,7 @@ filetype plugin on
 " filetype indent on
 
 " reload files changed outside vim
-set autoread    
+set autoread
 
 " encoding is utf 8
 set encoding=utf-8
