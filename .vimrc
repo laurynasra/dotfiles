@@ -38,7 +38,9 @@ colorscheme codedark
 "and set the mark color to DarkSlateGray
 highlight ColorColumn ctermbg=lightgray guibg=lightgray
 
+set expandtab
 set tabstop=2
+set softtabstop=2
 set shiftwidth=2
 
 autocmd QuickFixCmdPost [^l]* nested cwindow
